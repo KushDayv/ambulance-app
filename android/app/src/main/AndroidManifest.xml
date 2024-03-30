@@ -3,6 +3,9 @@
         android:label="ambulance_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+<!--        <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>-->
+<!--        <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>-->
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -29,6 +32,8 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyA2o2SqXxBDJ7CA83AUQKnZe6Sywm9C2MA"/>
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility?hl=en and

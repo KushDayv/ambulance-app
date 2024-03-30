@@ -1,12 +1,15 @@
 // import 'package:flutter/cupertino.dart';
 // import 'dart:async';
 import 'package:ambulance_app/RequestAmbulance.dart';
+import 'package:ambulance_app/settings.dart';
 import 'package:flutter/material.dart';
 import 'nearbyhospital.dart';
 import 'vieworderhistory.dart';
 import 'firstaid.dart';
 import 'trackambulance.dart';
 import 'helpfaqs.dart';
+import 'profile.dart';
+import 'package:permission_handler/permission_handler.dart';
 
 class DashboardPage extends StatelessWidget {
 
@@ -25,17 +28,25 @@ class DashboardPage extends StatelessWidget {
         actions: [
           IconButton(
             onPressed: () {
-              // Handle profile icon tap
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => ProfilePage(showMessage: (message) {
+                  // Handle showMessage if needed
+                })),
+              );
             },
-            icon: const Icon(Icons.account_circle, size: 35, color: Colors.black), // Adjust size and color here
+            icon: const Icon(Icons.account_circle, size: 35, color: Colors.black),
           ),
           IconButton(
             onPressed: () {
-              // showSettingsPanel(context);
-              // Handle settings icon tap
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const SettingsPage()), // Navigate to your custom settings page
+              );
             },
-            icon: const Icon(Icons.settings, size: 35, color: Colors.black), // Adjust size and color here
+            icon: const Icon(Icons.settings, size: 35, color: Colors.black),
           ),
+
         ],
       ),
       body: Stack( // Use a Stack widget for layering
