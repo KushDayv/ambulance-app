@@ -1,10 +1,10 @@
 # ambulance_app
 
-A new Flutter project.
+A New Flutter Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was developed as part of an exploration into Flutter Techlogy, and also served as a final-year project.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -16,7 +16,17 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+##Preriquisites.
+Android Studio: https://developer.android.com/studio/install
+Flutter SDK: https://docs.flutter.dev/get-started/install?gad_source=1&gclid=CjwKCAiAn9a9BhBtEiwAbKg6fgY0d9KuBLxArZKUaX2oR8_hjAhO2v0c0lltxBxJHqGPWo3gEQinhxoCHbIQAvD_BwE&gclsrc=aw.ds
+Dart: https://dart.dev/docs
+Firebase: https://firebase.google.com/docs?_gl=1*1whgkev*_up*MQ..*_ga*MTM1NzI1NDMyMS4xNzM5OTg4MTc4*_ga_CW55HF8NVT*MTczOTk4ODE3OC4xLjAuMTczOTk4ODE5OS4wLjAuMA..&gclid=CjwKCAiAn9a9BhBtEiwAbKg6fuoAr3kNQ4Y-nQ4N2GM2bnhD_Ao9u25fDgv05czI3yyJ8Ws5ddkLYxoCh44QAvD_BwE&gclsrc=aw.ds
 
+
+
+##Project outcome:
+
+The following are images that illustrate what I managed to come up with. 
 
 ![image](https://github.com/user-attachments/assets/9928ffae-6e20-464c-979c-d43a7d644d0d)                    ![image](https://github.com/user-attachments/assets/e323cc23-6dbb-4b0c-a899-78f3cee73403)
 
@@ -29,3 +39,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
+Any suggestsions are welcome 🙂🙂🙂.
