@@ -40,35 +40,35 @@ class HelpFaqsDetails extends StatelessWidget {
                 ListTile(
                   leading: Icon(Icons.phone, color: Colors.red, size: 38),
                   title: Text(
-                    '+254 711 222 222',
+                    '+254 ### ### ###',
                     style: TextStyle(color: Colors.red, fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                 ),
                 ListTile(
                   leading: Icon(Icons.phone, color: Colors.red, size: 38),
                   title: Text(
-                    '+254 711 333 333',
+                    '+254 ### ### ###',
                     style: TextStyle(color: Colors.red, fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                 ),
                 ListTile(
                   leading: Icon(Icons.phone, color: Colors.red, size: 38),
                   title: Text(
-                    '+254 711 254 254 ',
+                    '+254 ### ### ###',
                     style: TextStyle(color: Colors.red, fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                 ),
                 ListTile(
                   leading: Icon(Icons.email, color: Colors.red, size: 38,),
                   title: Text(
-                    'info@emergencycare.co.ke',
+                    'info@###.co.ke',
                     style: TextStyle(color: Colors.black, fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                 ),
                 ListTile(
                   leading: Icon(Icons.email, color: Colors.red, size: 38,),
                   title: Text(
-                    'info@ambemergcare.co.ke',
+                    'info@###.co.ke',
                     style: TextStyle(color: Colors.black, fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                 ),
