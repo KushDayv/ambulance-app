@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-##Preriquisites.
+## Preriquisites:
 
 
 Android Studio: https://developer.android.com/studio/install
@@ -32,7 +32,7 @@ Firebase: https://shorturl.at/NR1Qp
 
 
 
-##Project outcome:
+## Project outcome:
 
 The following are images that illustrate what I managed to come up with. 
 
