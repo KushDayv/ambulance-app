@@ -18,7 +18,7 @@ class _TrackAmbulanceDetailsState extends State<TrackAmbulanceDetails> {
   Set<Marker> markers = {}; // Set of markers
 
   static const CameraPosition initialPosition = CameraPosition(
-    target: LatLng(-1.1554667219925305, 36.9597138286999),
+    target: LatLng(-#.##############, ##.#############),
     zoom: 16.4746,
   );
 
