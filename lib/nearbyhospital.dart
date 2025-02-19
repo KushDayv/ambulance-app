@@ -18,7 +18,7 @@ class _NearbyHospitalDetailsState extends State<NearbyHospitalDetails> {
   Set<Marker> markers = {}; // Set of markers
 
   static const CameraPosition initialPosition = CameraPosition(
-    target: LatLng(-1.1526290186164538, 36.96242974822939),
+    target: LatLng(-#.##############, ##.#############),
     zoom: 16.4746,
   );
 
