@@ -4,7 +4,7 @@ A New Flutter Project.
 
 ## Getting Started
 
-This project was developed as part of an exploration into Flutter Techlogy, and also served as a final-year project.
+This project was developed as part of an exploration into Flutter Technology, and also served as a final-year project.
 
 A few resources to get you started if this is your first Flutter project:
 
