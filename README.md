@@ -48,8 +48,7 @@ The following are images that illustrate what I managed to come up with.
 
 
 
-![image](https://github.com/user-attachments/assets/c936c5b3-c366-4334-98f7-6c26599a6ee3)                    ![image](https://github.com/user-attachments/assets/c2805a84-1ad9-482d-b0d2-0b120143e8c6)
-
+![image](https://github.com/user-attachments/assets/c936c5b3-c366-4334-98f7-6c26599a6ee3)                    
 
 
 
